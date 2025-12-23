@@ -36,14 +36,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/sunil/.m2/repository/net/masterthought/cucumber-reporting/5.10.1/cucumber-reporting-5.10.1.jar" sourcepath="C:/Users/sunil/.m2/repository/net/masterthought/cucumber-reporting/5.10.1/cucumber-reporting-5.10.1-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="net.masterthought"/>
-			<attribute name="maven.artifactId" value="cucumber-reporting"/>
-			<attribute name="maven.version" value="5.10.1"/>
-			<attribute name="maven.scope" value="compile"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
