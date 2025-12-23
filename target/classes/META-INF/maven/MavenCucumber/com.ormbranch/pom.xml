@@ -26,7 +26,12 @@
 </dependency>
 
 
-  
+
+  	<dependency>
+  		<groupId>com.ecrbranch</groupId>
+  		<artifactId>CucuToday</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   
   
