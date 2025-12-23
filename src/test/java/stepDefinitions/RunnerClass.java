@@ -15,5 +15,8 @@ public class RunnerClass {
 		Reporting.generateJvmReport("target\\output.json");
 
 }
+	public static void main(String[] args) {
+		System.out.println("Hi sarath");
+	}
 }
 	
